@@ -30,4 +30,5 @@ in a single bot.
 
 🚀 Run locally:
 pip install -r requirements.txt
+
 python bot.py
